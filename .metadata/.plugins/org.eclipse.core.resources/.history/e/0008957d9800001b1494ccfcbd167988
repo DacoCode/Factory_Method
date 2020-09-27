@@ -1,0 +1,17 @@
+package com.personalTrabajo.impl;
+
+import com.personalTrabajo.interfaz.PersonalTrabajo;
+
+public class PersonalGestion implements PersonalTrabajo {
+
+	private void PersonalGestion() {
+		System.out.println("Accedio a personal de gestion");
+	}
+
+	@Override
+	public void Acceder() {
+		
+		
+		
+	}
+}

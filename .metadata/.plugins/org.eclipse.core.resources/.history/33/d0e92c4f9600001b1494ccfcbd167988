@@ -1,0 +1,8 @@
+package com.personalTrabajo.impl;
+
+public class PersonalGestion {
+
+	public PersonalGestion() {
+		
+	}
+}

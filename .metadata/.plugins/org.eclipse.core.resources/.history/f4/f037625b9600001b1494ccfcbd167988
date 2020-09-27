@@ -1,0 +1,16 @@
+package com.personalTrabajo.impl;
+
+import com.personalTrabajo.interfaz.PersonalTrabajo;
+
+public class PersonalGestion implements PersonalTrabajo {
+
+	public PersonalGestion() {
+		
+	}
+
+	@Override
+	public void Acceder() {
+		// TODO Auto-generated method stub
+		
+	}
+}
